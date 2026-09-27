@@ -99,7 +99,7 @@ const CONFIG = {
     { caption: "Just catching some good vibes. ❤️", colors: ["#cbe6dd", "#7fb8a6"], image: "image/c.jpeg" },
     { caption: "Finding peace with the squad. 😊✨", colors: ["#f2c9d9", "#e087a3"], image: "image/d.jpeg" },
     { caption: "Coffee became our little ritual. ☕❤️", colors: ["#f2ddaf", "#dba85c"], image: "image/h.jpeg" },
-    { caption: "Chears to the happy couple 🤍❤️", colors: ["#d5c9f2", "#9e87e0"], image: "image/e.jpeg" },
+    { caption: "Making memories at the temple. 🥰✨", colors: ["#d5c9f2", "#9e87e0"], image: "image/e.jpeg" },
     { caption: "Gathered together to celebrate love. 🥹🤍", colors: ["#c9d6f2", "#87a3e0"], image: "image/f.jpeg" },
     { caption: "Making memories at the temple. 🥰✨", colors: ["#e6d5c3", "#c4a482"], image: "image/g.jpeg" },
   ],
