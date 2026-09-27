@@ -120,13 +120,23 @@ const CONFIG = {
   // Scene 6 — letter
   letterSalutation: "Dear Jaya ❤️,",
   letterBody:
-`Happy Birthday, ❤️🎂
+`**Dear [kuppiii],**
 
-Whatever happens between us in the future, please remember just one thing… I’ll always be there for you. Even if one day you completely forget me, I don’t think I could ever forget you. 🤍
+Happy Birthday! ❤️
 
-Please always be safe, stay happy, and enjoy every moment of your life with the people you love. ✨❤️ I genuinely hope your future is filled with happiness, success, peace and everything your heart wishes for.
+Namma meet pannadhu oru accident madhiri dhaan. Aana, ippo think pannumbodhu, indha 5+ years-la nee en life-la oru special person-a maarita.
 
-Happy Birthday once again, my best friend. 🎂🥺❤️
+Unna enakku romba pidikkum. Especially, nee unna suthi irukkura people-a care panra way enakku romba pudikkum. Unakku pudicha people-kaaga edhu venumnaalum panna try pannuva. Unoda simple nature-um, chinna chinna vishayangal-la kooda happy-a irukkura way-um enakku romba pudikkum.
+
+Indha ivlo years-la enoda kashtam, happiness ellathayum un kooda share panniruken. Enakku edhavadhu aana, unna thedi vandhu pesura alavukku oru comfort un kitta irukku. Nee enakku kudutha care-ku romba thanks. ❤️
+
+Edhu nadandhaalum, unakku edhavadhu problem irundha en kitta sollu. **Nee thaniya illa, naan eppovume unakkaaga iruppen.**
+
+Eppovume ippadiye happy-a iru, neraya smile pannu. **Un smile-a mattum miss pannadha.** 😄
+
+Once again, **Happy Birthday! ❤️**
+Stay happy always. Heeee 😄
+[abhi]
 
 `,
 
